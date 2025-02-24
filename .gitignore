@@ -1,0 +1,16 @@
+dictionary_card_spending.csv
+dictionary_main.csv
+dictionary_mcc_operations.csv
+dictionary_mcc_preferences.csv
+sample_submit_naive.csv
+test_card_spending.parquet
+test_main.parquet
+test_mcc_operations.parquet
+test_mcc_preferences.parquet
+train_card_spending.parquet
+train_main.parquet
+train_mcc_operations.parquet
+train_mcc_preferences.parquet
+train_target.csv
+uslovia_distribution.docx
+Условия.JPG

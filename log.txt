@@ -1,0 +1,39 @@
+learn: 1.7116108, RMSLE = 4.134957737297057 (iterations = 1000,
+                          early_stopping_rounds = 100, 
+                          depth = 6, 
+                          learning_rate = 0.05,
+                          l2_leaf_reg = 1, 
+                          loss_function = 'RMSE', 
+                          nan_mode = 'Min', 
+                          random_seed = 314,
+                          verbose = 10,
+                          bagging_temperature = 0.5,
+                          grow_policy = 'Lossguide')
+
+learn: 1.8619936, RMSLE = 4.1265331494 (iterations = 1000,
+                          early_stopping_rounds = 100, 
+                          depth = 6, 
+                          learning_rate = 0.05, 
+                          loss_function = 'RMSE', 
+                          nan_mode = 'Min', 
+                          random_seed = 314,
+                          verbose = 10,
+                          bagging_temperature = 0.5)
+
+learn: 1.7644081, RMSLE = 4.122365662016783 (iterations = 1000, 
+                          depth = 6, 
+                          learning_rate = 0.1, 
+                          loss_function = 'RMSE', 
+                          nan_mode = 'Min', 
+                          random_seed = 314,
+                          verbose = 10)
+
+learn: 1.4443148, RMSLE = 4.1557954869 (iterations = 1000,
+                          early_stopping_rounds = 100, 
+                          depth = 7,
+                          l2_leaf_reg = 1,
+                          learning_rate = 0.2, 
+                          loss_function = 'RMSE', 
+                          nan_mode = 'Min', 
+                          random_seed = 314,
+                          verbose = 10)

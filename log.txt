@@ -37,3 +37,13 @@ learn: 1.4443148, RMSLE = 4.1557954869 (iterations = 1000,
                           nan_mode = 'Min', 
                           random_seed = 314,
                           verbose = 10)
+
+learn: 2.0186628, RMSLE = 4,1823679138 (iterations = 100,
+                          early_stopping_rounds = 100, 
+                          depth = 6,
+                          l2_leaf_reg = 1,
+                          learning_rate = 0.1, 
+                          loss_function = 'RMSE', 
+                          nan_mode = 'Min', 
+                          random_seed = 314,
+                          verbose = 10), train_main + train_card, dropna(na>90%)

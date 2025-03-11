@@ -56,3 +56,12 @@ learn: 2.0142042, RMSLE = 4.272077889 (iterations = 100,
                           nan_mode = 'Min', 
                           random_seed = 314,
                           verbose = 10), dropna + importance drop
+
+learn: 1.7619044, RMSLE = 4.098902300325153 (iterations = 1000, 
+                          depth = 6,
+                          #l2_leaf_reg = 1,
+                          learning_rate = 0.1, 
+                          loss_function = 'RMSE', 
+                          nan_mode = 'Min', 
+                          random_seed = 314,
+                          verbose = 10), fillna train_main

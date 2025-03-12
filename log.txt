@@ -64,4 +64,4 @@ learn: 1.7619044, RMSLE = 4.098902300325153 (iterations = 1000,
                           loss_function = 'RMSE', 
                           nan_mode = 'Min', 
                           random_seed = 314,
-                          verbose = 10), fillna train_main
+                          verbose = 10), fillna, dropna + train_main
